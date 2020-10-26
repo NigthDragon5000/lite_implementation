@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'masterdaster2'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1655357a129740ee9d953e491db5b8be }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dded93e33fea4c6f8c33ef864d1d221f }}
